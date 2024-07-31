@@ -1,0 +1,87 @@
+{
+  "UserData": [
+    {
+      "id": "1",
+      "uname": "VIshAL",
+      "email": "viashal@gmail.com",
+      "pass": "Vishal@123",
+      "Role": "Admin"
+    },
+    {
+      "id": "2",
+      "uname": "yogesh",
+      "email": "yogesh@gmail.com",
+      "pass": "yogi@1234",
+      "Role": "User"
+    },
+    {
+      "id": "3",
+      "uname": "Kumar",
+      "email": "Kumar@gmail.com",
+      "pass": "Kumar@1234",
+      "Role": "User"
+    },
+    {
+      "id": "4",
+      "uname": "viki",
+      "email": "viki@gmail.com",
+      "pass": "viki@1234",
+      "Role": "User"
+    },
+    {
+      "id": "5",
+      "uname": "vicki",
+      "email": "vicki@gmail.com",
+      "pass": "vicki@1234",
+      "Role": "User"
+    },
+    {
+      "id": "6",
+      "uname": "vignesh",
+      "email": "vignesh@gmail.com",
+      "pass": "vignesh@1234",
+      "Role": "User"
+    },
+    {
+      "id": 7,
+      "uname": "vishal",
+      "email": "Vishal1234@gmail.com",
+      "password": "12345678",
+      "Role": "User"
+    }
+  ],
+  "Inventory": [
+    {
+      "id": "1",
+      "name": "Refrigirator",
+      "image": "/static/media/image1.c27dd75cd72077336d61.jpg",
+      "Quantity": 7
+    },
+    {
+      "id": "2",
+      "name": "Dishwasher",
+      "image": "/static/media/image2.cdd06c41b21ef59a9e56.jpg",
+      "Quantity": 1
+    },
+    {
+      "id": "3",
+      "pname": "Washing Machine",
+      "Quantity": 6
+    },
+    {
+      "id": "4",
+      "pname": "Hair Dryer",
+      "Quantity": 6
+    },
+    {
+      "id": "5",
+      "pname": "Microwave Oven",
+      "Quantity": 6
+    },
+    {
+      "id": "6",
+      "pname": "Kettle",
+      "Quantity": 6
+    }
+  ]
+}
